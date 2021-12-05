@@ -1,0 +1,57 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:lemonchiffon;
+}
+
+.header_div{
+    background-color: darkslategray;
+    color: lightcyan;
+}
+
+.header_div p{
+    font-family:'Roboto',sans-serif;
+    color:white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:turquoise;
+    background-color:mediumseagreen;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
+
+#result_label_dog{
+    color:rebeccapurple;
+}
+
+#result_label_cat{
+    color:royalblue;
+}
+
+#result_label_cow{
+    color:yellowgreen;
+}
+
+#result_label_lion{
+    color:plum;
+}
+
+#detected_voice{
+   color:peru;
+}
